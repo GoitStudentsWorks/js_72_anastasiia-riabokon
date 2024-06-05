@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-digital-dragons-portfolio-js/",
+    "build": "vite build --base=/js_72_anastasiia-riabokon/",
     "preview": "vite preview"
   },
   "devDependencies": {
